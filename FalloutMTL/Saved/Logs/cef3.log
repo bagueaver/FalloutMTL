@@ -1,0 +1,8 @@
+[95012:86320:0402/140120.806:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[95012:58708:0402/140121.153:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[95012:86320:0402/140121.263:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37956:50500:0402/140128.937:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-778BDA9B3D850968AD48FA8F1425AA04 will be ignored
+[95012:94792:0402/140131.948:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[52500:89616:0402/140357.897:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[52500:89616:0402/140357.909:ERROR:command_buffer_proxy_impl.cc(132)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[95012:86320:0402/140357.911:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
